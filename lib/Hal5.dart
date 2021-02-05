@@ -150,7 +150,7 @@ class _Hal5State extends State<Hal5> {
             Flexible(
               flex: 1,
               child: Container(
-                color: Colors.white,
+                color: Colors.grey,
                 child: Column(
                   children: <Widget>[
                     Padding(
@@ -227,10 +227,10 @@ class _Hal5State extends State<Hal5> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             Text(
-              'Anugrah Sandi',
+              'AL-MUZAMMIL',
               style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
             ),
-            Text('Daengweb.id')
+            Text('sammirEl_betis')
           ],
         ),
         Spacer(

@@ -29,6 +29,7 @@ dependencies:
   path_provider: 0.4.1
   qrscan: ^0.2.22
   qr_flutter: ^3.2.0
+  http: ^0.12.2
 
 
 
@@ -58,6 +59,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+    - madinah.png
+    - mekah.jpg
     - assets/
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
